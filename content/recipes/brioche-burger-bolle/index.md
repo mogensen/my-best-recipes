@@ -11,7 +11,7 @@ sourceName: "Gastromand"
 sourceURL: https://gastromand.dk/tatar-burgeren/#wprm-recipe-container-54269
 categories: 
   - dinner
-cusines: 
+cuisines: 
   - american
 tags:
   - american
@@ -22,25 +22,28 @@ prepTime: 25
 cookTime: 20
 
 ingredients:
- - 350 gr mel
- - 3 æg +1 til pensling
- - 2 spsk lunken vand
- - 4 spsk lunken mælk
- - 1 tsk salt
- - 25 gr gær
- - 250 gr smør
- - 35 gr sukker
- - Lidt kardemomme
+  - name: Boller
+    list:
+      - 350 gr mel
+      - 3 æg +1 til pensling
+      - 2 spsk lunken vand
+      - 4 spsk lunken mælk
+      - 1 tsk salt
+      - 25 gr gær
+      - 250 gr smør
+      - 35 gr sukker
+      - Lidt kardemomme
 
 directions:
-
- - Rør gæren ud i vand og mælk.
- - Tilsæt æg, salt, sukker og kardemomme og rør det ud.
- - Herefter tilsættes mel under omrøring, til du har en sammenhængende dej.
- - Tilsæt smør lidt ad gangen til dejen er glat.
- - Lad dejen hæve i ca. 2 timer og stil den så på køl i yderligere 2 timer.
- - Tag dejen ud og del den i 6-8 portioner og form dejen til boller.
- - Lad bollerne efterhæve i 2-3 timer, til de er hævet til dobbelt størrelse.
- - Pensl bollerne med et pisket æg og bag i ovnen ved 175 grader i ca. 20 minutter.
+ - name: Boller
+   steps:
+    - Rør gæren ud i vand og mælk.
+    - Tilsæt æg, salt, sukker og kardemomme og rør det ud.
+    - Herefter tilsættes mel under omrøring, til du har en sammenhængende dej.
+    - Tilsæt smør lidt ad gangen til dejen er glat.
+    - Lad dejen hæve i ca. 2 timer og stil den så på køl i yderligere 2 timer.
+    - Tag dejen ud og del den i 6-8 portioner og form dejen til boller.
+    - Lad bollerne efterhæve i 2-3 timer, til de er hævet til dobbelt størrelse.
+    - Pensl bollerne med et pisket æg og bag i ovnen ved 175 grader i ca. 20 minutter.
 
 ---

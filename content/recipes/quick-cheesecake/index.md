@@ -11,7 +11,7 @@ sourceName:
 sourceURL: 
 categories: 
  - dessert
-cusines:
+cuisines:
 tags:
  - dessert
  - bær
@@ -21,25 +21,33 @@ prepTime: 15
 cookTime: 45
 
 ingredients:
-- 250g digistive
-- 150g smør
-- 2,5 dl fløde
-- 300g flødeost
-- 2 tsk vaniljesukker
-- 60g flormelis
+  - name: Kiksebund
+    list:
+      - 250g digistive
+      - 150g smør
+
+  - name: "Cheesecakefyld"
+    list:
+      - 2,5 dl fløde
+      - 300g flødeost
+      - 2 tsk vaniljesukker
+      - 60g flormelis
 
 directions:
-- Bund
-- Smelt smørret og knus kiksene fint.
-- Bland de to dele godt
-- Tag en springform (22 cm) og spænd et stykke bagepapir fast mellem ring og bund.
-- Tryk kikseblandingen ud i bunden af springbunden
-- Fyld
-- Pisk flødeost, flormelis og vaniljesukker med en håndmixer ved lav hastighed
-- Pisk fløden
-- Bland de to dele godt.
-- Fordel massen over kiksebunden og glat den pænt ud.
-- Sættes i køleskabet i mindst 3 timer.
+  - name: Kiksebund
+    steps:
+      - Smelt smørret og knus kiksene fint.
+      - Bland de to dele godt
+      - Tag en springform (22 cm) og spænd et stykke bagepapir fast mellem ring og bund.
+      - Tryk kikseblandingen ud i bunden af springbunden
+
+  - name: "Cheesecakefyld"
+    steps:
+      - Pisk flødeost, flormelis og vaniljesukker med en håndmixer ved lav hastighed
+      - Pisk fløden
+      - Bland de to dele godt.
+      - Fordel massen over kiksebunden og glat den pænt ud.
+      - Sættes i køleskabet i mindst 3 timer.
 
 ---
 
