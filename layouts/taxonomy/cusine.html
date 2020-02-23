@@ -1,0 +1,21 @@
+{{ define "content" }}
+  <section class="container list">
+    <h1 class="title">
+      {{- if eq .Kind "taxonomy" -}}
+        {{- .Data.Singular | title -}}
+        {{- print ": " -}}
+      {{- end -}}
+
+      {{- .Title -}}
+    </h1>
+    
+    <div class="recipes xs-px1 xs-mt2">
+      <div class="clearfix">
+        {{ range .Paginator.Pages }}
+          {{ partial "recipe-card.html" . }}
+        {{ end }}
+      </div>
+  
+    {{ partial "pagination.html" . }}
+  </section>
+{{ end }}

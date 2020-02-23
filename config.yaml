@@ -1,0 +1,45 @@
+baseURL: https://example.com
+disablePathToLower: true
+languageCode: da-dk
+title: De bedste opskrifter
+theme: gochowdown
+googleAnalytics: 
+defaultcontentlanguage: en
+paginate: 20
+canonifyurls: true
+pygmentsstyle: monokai
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+pygmentsOptions: "linenos=table"
+permalinks:
+  posts: /posts/:year/:month/:title
+params:
+  author: Frederik Mogensen
+  description: Tilfældnige opskrifter
+  keywords: 'recipes'
+  favicon_32: /images/favicon-32x32.png
+  favicon_16: /images/favicon-16x16.png
+  footercontent: 
+  hidecredits: false
+  hidecopyright: false
+  showNavTitle: true            # Boolean: show site title in nav bar
+  custom_css: 
+    - style.css
+menu:
+  main:
+    - name: Forside
+      weight: 1
+      url: /
+    - name: Kategorier
+      weight: 2
+      url: /categories/
+    - name: Tema
+      weight: 3
+      url: /cusines/
+    - name: Tags
+      weight: 4
+      url: /tags/
+taxonomies:
+  category: categories
+  cusine: cusines
+  tag: tags
