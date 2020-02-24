@@ -7,10 +7,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+        
       - name: Login to GitHub Package Registry
-        run: echo "${{ secrets.DOCKER_PASSWORD }}" | docker login docker.pkg.github.com -u "${{ secrets.DOCKER_USERNAME }}" --password-stdin
+        run: echo "${{ secrets.DOCKER_PASSWORD }}" | docker login docker.pkg.github.com -u mogensen --password-stdin
+        
       - name: Build the Docker image
-        run: docker build -t docker.pkg.github.com/mogensen/my-best-recipes:nginx-$(date +'%Y-%m-%d_%H%M') .
+        run: docker build -t docker.pkg.github.com/mogensen/my-best-recipes/my-best-recipes:nginx-$(date +'%Y-%m-%d_%H%M') .
 
       - name: Push the Docker image to the registry
-        run: docker push docker.pkg.github.com/mogensen/my-best-recipes:nginx-$(date +'%Y-%m-%d_%H%M')
+        run: docker push docker.pkg.github.com/mogensen/my-best-recipes/my-best-recipes:nginx-$(date +'%Y-%m-%d_%H%M')
