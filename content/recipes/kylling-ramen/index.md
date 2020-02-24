@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Kylling Ramen"
-image: ramen.jpg
+image:
 imagecredit: https://github.com/mogensen
 date: 2020-02-23
 
