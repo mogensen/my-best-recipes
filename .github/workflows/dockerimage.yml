@@ -15,7 +15,6 @@ jobs:
       
     - name: Push
       run: |
-        docker login docker.pkg.github.com --username mogensen --password "${GITHUB_PACKAGE_REGISTRY_TOKEN}"
+        echo "${{ secrets.GITHUB_PACKAGE_REGISTRY_TOKEN }}" | docker login docker.pkg.github.com --username mogensen"
         docker push docker.pkg.github.com/mogensen/my-best-recipes:$(date +%s)
-      env:
-        GITHUB_PACKAGE_REGISTRY_TOKEN: ${{ secrets.GITHUB_PACKAGE_REGISTRY_TOKEN }}
+
