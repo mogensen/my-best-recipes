@@ -7,6 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+        with:
+          submodules: true
         
       - name: Login to GitHub Package Registry
         run: echo "${{ secrets.DOCKER_PASSWORD }}" | docker login -u mogensen --password-stdin
