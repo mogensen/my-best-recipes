@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>american on De bedste opskrifter</title><link>/tags/american/</link><description>Recent content in american on De bedste opskrifter</description><generator>Hugo -- gohugo.io</generator><language>da-dk</language><lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/american/index.xml" rel="self" type="application/rss+xml"/><item><title>Brioche Burger Bolle</title><link>/recipes/brioche-burger-bolle/</link><pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate><guid>/recipes/brioche-burger-bolle/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>american on De bedste opskrifter</title>
+    <link>/tags/american/</link>
+    <description>Recent content in american on De bedste opskrifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/american/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brioche Burger Bolle</title>
+      <link>/recipes/brioche-burger-bolle/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/recipes/brioche-burger-bolle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

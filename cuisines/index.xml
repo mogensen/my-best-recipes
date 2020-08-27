@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cuisines on De bedste opskrifter</title><link>/cuisines/</link><description>Recent content in Cuisines on De bedste opskrifter</description><generator>Hugo -- gohugo.io</generator><language>da-dk</language><lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/cuisines/index.xml" rel="self" type="application/rss+xml"/><item><title>american</title><link>/cuisines/american/</link><pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate><guid>/cuisines/american/</guid><description/></item><item><title>asian</title><link>/cuisines/asian/</link><pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate><guid>/cuisines/asian/</guid><description/></item><item><title>maxican</title><link>/cuisines/maxican/</link><pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate><guid>/cuisines/maxican/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuisines on De bedste opskrifter</title>
+    <link>/cuisines/</link>
+    <description>Recent content in Cuisines on De bedste opskrifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/cuisines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>american</title>
+      <link>/cuisines/american/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cuisines/american/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>asian</title>
+      <link>/cuisines/asian/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cuisines/asian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maxican</title>
+      <link>/cuisines/maxican/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cuisines/maxican/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

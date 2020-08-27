@@ -1,2 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dessert on De bedste opskrifter</title><link>/categories/dessert/</link><description>Recent content in dessert on De bedste opskrifter</description><generator>Hugo -- gohugo.io</generator><language>da-dk</language><lastBuildDate>Sun, 23 Feb 2020 14:01:14 +0100</lastBuildDate><atom:link href="/categories/dessert/index.xml" rel="self" type="application/rss+xml"/><item><title>Quick Cheesecake</title><link>/recipes/quick-cheesecake/</link><pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate><guid>/recipes/quick-cheesecake/</guid><description>Varianter Hindbær/lakrids Miks lakrids pulver i fyldet. 300g hindbær syltetøj fordeles ovenpå kagen lige inden servering.</description></item><item><title>Vaniljecheesecake med passionsfrugt</title><link>/recipes/vaniljecheesecake-med-passionsfrugt/</link><pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate><guid>/recipes/vaniljecheesecake-med-passionsfrugt/</guid><description>Opskrift på vaniljecheesecake med passionsfrugt Vaniljecheesecake med passionsfrugt
-Lækker no-bake cheesecake med knasende lakridskiksebund, cremet ­vaniljesødt ostefyld og syrlig passionsfrugtgelé. Både smagen og farven er genial.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dessert on De bedste opskrifter</title>
+    <link>/categories/dessert/</link>
+    <description>Recent content in dessert on De bedste opskrifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Sun, 23 Feb 2020 14:01:14 +0100</lastBuildDate>
+    
+	<atom:link href="/categories/dessert/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quick Cheesecake</title>
+      <link>/recipes/quick-cheesecake/</link>
+      <pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate>
+      
+      <guid>/recipes/quick-cheesecake/</guid>
+      <description>Varianter Hindbær/lakrids  Miks lakrids pulver i fyldet. 300g hindbær syltetøj fordeles ovenpå kagen lige inden servering.  </description>
+    </item>
+    
+    <item>
+      <title>Vaniljecheesecake med passionsfrugt</title>
+      <link>/recipes/vaniljecheesecake-med-passionsfrugt/</link>
+      <pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate>
+      
+      <guid>/recipes/vaniljecheesecake-med-passionsfrugt/</guid>
+      <description>Opskrift på vaniljecheesecake med passionsfrugt Vaniljecheesecake med passionsfrugt
+Lækker no-bake cheesecake med knasende lakridskiksebund, cremet ­vaniljesødt ostefyld og syrlig passionsfrugtgelé. Både smagen og farven er genial.</description>
+    </item>
+    
+  </channel>
+</rss>

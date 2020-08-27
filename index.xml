@@ -1,2 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>De bedste opskrifter</title><link>/</link><description>Recent content on De bedste opskrifter</description><generator>Hugo -- gohugo.io</generator><language>da-dk</language><lastBuildDate>Sun, 23 Feb 2020 14:01:14 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Quick Cheesecake</title><link>/recipes/quick-cheesecake/</link><pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate><guid>/recipes/quick-cheesecake/</guid><description>Varianter Hindbær/lakrids Miks lakrids pulver i fyldet. 300g hindbær syltetøj fordeles ovenpå kagen lige inden servering.</description></item><item><title>Vaniljecheesecake med passionsfrugt</title><link>/recipes/vaniljecheesecake-med-passionsfrugt/</link><pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate><guid>/recipes/vaniljecheesecake-med-passionsfrugt/</guid><description>Opskrift på vaniljecheesecake med passionsfrugt Vaniljecheesecake med passionsfrugt
-Lækker no-bake cheesecake med knasende lakridskiksebund, cremet ­vaniljesødt ostefyld og syrlig passionsfrugtgelé. Både smagen og farven er genial.</description></item><item><title>Brioche Burger Bolle</title><link>/recipes/brioche-burger-bolle/</link><pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate><guid>/recipes/brioche-burger-bolle/</guid><description/></item><item><title>Chili sin Carne</title><link>/recipes/chili-sin-carne/</link><pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate><guid>/recipes/chili-sin-carne/</guid><description>Server m. brød, tortillachips eller salat. Drys evt. med persille v. servering</description></item><item><title>Kylling Ramen</title><link>/recipes/kylling-ramen/</link><pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate><guid>/recipes/kylling-ramen/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>De bedste opskrifter</title>
+    <link>/</link>
+    <description>Recent content on De bedste opskrifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Sun, 23 Feb 2020 14:01:14 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quick Cheesecake</title>
+      <link>/recipes/quick-cheesecake/</link>
+      <pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate>
+      
+      <guid>/recipes/quick-cheesecake/</guid>
+      <description>Varianter Hindbær/lakrids  Miks lakrids pulver i fyldet. 300g hindbær syltetøj fordeles ovenpå kagen lige inden servering.  </description>
+    </item>
+    
+    <item>
+      <title>Vaniljecheesecake med passionsfrugt</title>
+      <link>/recipes/vaniljecheesecake-med-passionsfrugt/</link>
+      <pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate>
+      
+      <guid>/recipes/vaniljecheesecake-med-passionsfrugt/</guid>
+      <description>Opskrift på vaniljecheesecake med passionsfrugt Vaniljecheesecake med passionsfrugt
+Lækker no-bake cheesecake med knasende lakridskiksebund, cremet ­vaniljesødt ostefyld og syrlig passionsfrugtgelé. Både smagen og farven er genial.</description>
+    </item>
+    
+    <item>
+      <title>Brioche Burger Bolle</title>
+      <link>/recipes/brioche-burger-bolle/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/recipes/brioche-burger-bolle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chili sin Carne</title>
+      <link>/recipes/chili-sin-carne/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/recipes/chili-sin-carne/</guid>
+      <description>Server m. brød, tortillachips eller salat. Drys evt. med persille v. servering</description>
+    </item>
+    
+    <item>
+      <title>Kylling Ramen</title>
+      <link>/recipes/kylling-ramen/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/recipes/kylling-ramen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
