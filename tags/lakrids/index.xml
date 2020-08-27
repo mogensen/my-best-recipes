@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lakrids on De bedste opskrifter</title>
-    <link>https://mogensen.github.io/my-best-recipes/tags/lakrids/</link>
+    <link>/my-best-recipes/tags/lakrids/</link>
     <description>Recent content in lakrids on De bedste opskrifter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Sun, 23 Feb 2020 14:01:14 +0100</lastBuildDate>
     
-	<atom:link href="https://mogensen.github.io/my-best-recipes/tags/lakrids/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/my-best-recipes/tags/lakrids/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quick Cheesecake</title>
-      <link>https://mogensen.github.io/my-best-recipes/recipes/quick-cheesecake/</link>
+      <link>/my-best-recipes/recipes/quick-cheesecake/</link>
       <pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate>
       
-      <guid>https://mogensen.github.io/my-best-recipes/recipes/quick-cheesecake/</guid>
+      <guid>/my-best-recipes/recipes/quick-cheesecake/</guid>
       <description>Varianter Hindbær/lakrids  Miks lakrids pulver i fyldet. 300g hindbær syltetøj fordeles ovenpå kagen lige inden servering.  </description>
     </item>
     
     <item>
       <title>Vaniljecheesecake med passionsfrugt</title>
-      <link>https://mogensen.github.io/my-best-recipes/recipes/vaniljecheesecake-med-passionsfrugt/</link>
+      <link>/my-best-recipes/recipes/vaniljecheesecake-med-passionsfrugt/</link>
       <pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate>
       
-      <guid>https://mogensen.github.io/my-best-recipes/recipes/vaniljecheesecake-med-passionsfrugt/</guid>
+      <guid>/my-best-recipes/recipes/vaniljecheesecake-med-passionsfrugt/</guid>
       <description>Opskrift på vaniljecheesecake med passionsfrugt Vaniljecheesecake med passionsfrugt
 Lækker no-bake cheesecake med knasende lakridskiksebund, cremet ­vaniljesødt ostefyld og syrlig passionsfrugtgelé. Både smagen og farven er genial.</description>
     </item>

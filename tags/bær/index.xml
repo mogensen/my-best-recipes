@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bær on De bedste opskrifter</title>
-    <link>https://mogensen.github.io/my-best-recipes/tags/b%C3%A6r/</link>
+    <link>/my-best-recipes/tags/b%C3%A6r/</link>
     <description>Recent content in bær on De bedste opskrifter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Sun, 23 Feb 2020 14:01:14 +0100</lastBuildDate>
     
-	<atom:link href="https://mogensen.github.io/my-best-recipes/tags/b%C3%A6r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/my-best-recipes/tags/b%C3%A6r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quick Cheesecake</title>
-      <link>https://mogensen.github.io/my-best-recipes/recipes/quick-cheesecake/</link>
+      <link>/my-best-recipes/recipes/quick-cheesecake/</link>
       <pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate>
       
-      <guid>https://mogensen.github.io/my-best-recipes/recipes/quick-cheesecake/</guid>
+      <guid>/my-best-recipes/recipes/quick-cheesecake/</guid>
       <description>Varianter Hindbær/lakrids  Miks lakrids pulver i fyldet. 300g hindbær syltetøj fordeles ovenpå kagen lige inden servering.  </description>
     </item>
     

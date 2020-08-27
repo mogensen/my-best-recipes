@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cuisines on De bedste opskrifter</title>
-    <link>https://mogensen.github.io/my-best-recipes/cuisines/</link>
+    <link>/my-best-recipes/cuisines/</link>
     <description>Recent content in Cuisines on De bedste opskrifter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mogensen.github.io/my-best-recipes/cuisines/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/my-best-recipes/cuisines/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>american</title>
-      <link>https://mogensen.github.io/my-best-recipes/cuisines/american/</link>
+      <link>/my-best-recipes/cuisines/american/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mogensen.github.io/my-best-recipes/cuisines/american/</guid>
+      <guid>/my-best-recipes/cuisines/american/</guid>
       <description></description>
     </item>
     
     <item>
       <title>asian</title>
-      <link>https://mogensen.github.io/my-best-recipes/cuisines/asian/</link>
+      <link>/my-best-recipes/cuisines/asian/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mogensen.github.io/my-best-recipes/cuisines/asian/</guid>
+      <guid>/my-best-recipes/cuisines/asian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>maxican</title>
-      <link>https://mogensen.github.io/my-best-recipes/cuisines/maxican/</link>
+      <link>/my-best-recipes/cuisines/maxican/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mogensen.github.io/my-best-recipes/cuisines/maxican/</guid>
+      <guid>/my-best-recipes/cuisines/maxican/</guid>
       <description></description>
     </item>
     
