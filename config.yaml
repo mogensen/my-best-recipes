@@ -1,10 +1,10 @@
-baseURL: ""
+baseURL: "https://mogensen.github.io/my-best-recipes/"
 disablePathToLower: true
 languageCode: da-dk
 title: De bedste opskrifter
 theme: gochowdown
 googleAnalytics:
-defaultcontentlanguage: en
+defaultcontentlanguage: dk
 paginate: 20
 canonifyurls: true
 pygmentsstyle: monokai
