@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>maxican on De bedste opskrifter</title>
-    <link>/my-best-recipes/cuisines/maxican/</link>
+    <link>https://mogensen.github.io/my-best-recipes/cuisines/maxican/</link>
     <description>Recent content in maxican on De bedste opskrifter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/my-best-recipes/cuisines/maxican/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mogensen.github.io/my-best-recipes/cuisines/maxican/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chili sin Carne</title>
-      <link>/my-best-recipes/recipes/chili-sin-carne/</link>
+      <link>https://mogensen.github.io/my-best-recipes/recipes/chili-sin-carne/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/my-best-recipes/recipes/chili-sin-carne/</guid>
+      <guid>https://mogensen.github.io/my-best-recipes/recipes/chili-sin-carne/</guid>
       <description>Server m. brød, tortillachips eller salat. Drys evt. med persille v. servering</description>
     </item>
     

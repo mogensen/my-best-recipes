@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recipes on De bedste opskrifter</title>
-    <link>/my-best-recipes/recipes/</link>
+    <link>https://mogensen.github.io/my-best-recipes/recipes/</link>
     <description>Recent content in Recipes on De bedste opskrifter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Sun, 23 Feb 2020 14:01:14 +0100</lastBuildDate>
     
-	<atom:link href="/my-best-recipes/recipes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mogensen.github.io/my-best-recipes/recipes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quick Cheesecake</title>
-      <link>/my-best-recipes/recipes/quick-cheesecake/</link>
+      <link>https://mogensen.github.io/my-best-recipes/recipes/quick-cheesecake/</link>
       <pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate>
       
-      <guid>/my-best-recipes/recipes/quick-cheesecake/</guid>
+      <guid>https://mogensen.github.io/my-best-recipes/recipes/quick-cheesecake/</guid>
       <description>Varianter Hindbær/lakrids  Miks lakrids pulver i fyldet. 300g hindbær syltetøj fordeles ovenpå kagen lige inden servering.  </description>
     </item>
     
     <item>
       <title>Vaniljecheesecake med passionsfrugt</title>
-      <link>/my-best-recipes/recipes/vaniljecheesecake-med-passionsfrugt/</link>
+      <link>https://mogensen.github.io/my-best-recipes/recipes/vaniljecheesecake-med-passionsfrugt/</link>
       <pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate>
       
-      <guid>/my-best-recipes/recipes/vaniljecheesecake-med-passionsfrugt/</guid>
+      <guid>https://mogensen.github.io/my-best-recipes/recipes/vaniljecheesecake-med-passionsfrugt/</guid>
       <description>Opskrift på vaniljecheesecake med passionsfrugt Vaniljecheesecake med passionsfrugt
 Lækker no-bake cheesecake med knasende lakridskiksebund, cremet ­vaniljesødt ostefyld og syrlig passionsfrugtgelé. Både smagen og farven er genial.</description>
     </item>
     
     <item>
       <title>Brioche Burger Bolle</title>
-      <link>/my-best-recipes/recipes/brioche-burger-bolle/</link>
+      <link>https://mogensen.github.io/my-best-recipes/recipes/brioche-burger-bolle/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/my-best-recipes/recipes/brioche-burger-bolle/</guid>
+      <guid>https://mogensen.github.io/my-best-recipes/recipes/brioche-burger-bolle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chili sin Carne</title>
-      <link>/my-best-recipes/recipes/chili-sin-carne/</link>
+      <link>https://mogensen.github.io/my-best-recipes/recipes/chili-sin-carne/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/my-best-recipes/recipes/chili-sin-carne/</guid>
+      <guid>https://mogensen.github.io/my-best-recipes/recipes/chili-sin-carne/</guid>
       <description>Server m. brød, tortillachips eller salat. Drys evt. med persille v. servering</description>
     </item>
     
     <item>
       <title>Kylling Ramen</title>
-      <link>/my-best-recipes/recipes/kylling-ramen/</link>
+      <link>https://mogensen.github.io/my-best-recipes/recipes/kylling-ramen/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/my-best-recipes/recipes/kylling-ramen/</guid>
+      <guid>https://mogensen.github.io/my-best-recipes/recipes/kylling-ramen/</guid>
       <description></description>
     </item>
     
