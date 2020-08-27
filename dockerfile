@@ -1,4 +1,4 @@
-FROM equalos/hugo:0.65.3-alpine as build
+FROM equalos/hugo:0.74.3-alpine as build
 
 COPY . /src
 WORKDIR /src
