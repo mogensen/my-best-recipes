@@ -6,26 +6,35 @@
     <description>Recent content in Categories on De bedste opskrifter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Sun, 23 Feb 2020 14:01:14 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mogensen.github.io/my-best-recipes/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>dessert</title>
-      <link>https://mogensen.github.io/my-best-recipes/categories/dessert/</link>
-      <pubDate>Sun, 23 Feb 2020 14:01:14 +0100</pubDate>
+      <title>bakeing</title>
+      <link>https://mogensen.github.io/my-best-recipes/categories/bakeing/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mogensen.github.io/my-best-recipes/categories/dessert/</guid>
+      <guid>https://mogensen.github.io/my-best-recipes/categories/bakeing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>dinner</title>
-      <link>https://mogensen.github.io/my-best-recipes/categories/dinner/</link>
+      <title>Dessert</title>
+      <link>https://mogensen.github.io/my-best-recipes/categories/Dessert/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mogensen.github.io/my-best-recipes/categories/Dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aftensmad</title>
+      <link>https://mogensen.github.io/my-best-recipes/categories/Aftensmad/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mogensen.github.io/my-best-recipes/categories/dinner/</guid>
+      <guid>https://mogensen.github.io/my-best-recipes/categories/Aftensmad/</guid>
       <description></description>
     </item>
     
