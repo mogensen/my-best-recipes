@@ -5,16 +5,16 @@ image: https://www.cdn.alt.dk/b75cc3ae03794e8897c629a04bca21e6/aa2c9a09b2ea4eddb
 imagecredit: https://www.alt.dk
 date: 2020-02-23T14:01:14+01:00
 
-authorName: https://www.alt.dk
+authorName: "Maja Ambeck Vase"
 authorURL: https://www.alt.dk
 sourceName: https://www.alt.dk
 sourceURL: https://www.alt.dk/mad/opskrift/vaniljecheesecake-med-passionsfrugt
 categories:
- - dessert
+ - Dessert
 cuisines:
 tags:
- - dessert
- - lakrids 
+ - Dessert
+ - Lakrids 
 yield: 4
 prepTime: 60
 cookTime: 240

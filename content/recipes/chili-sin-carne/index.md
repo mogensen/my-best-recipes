@@ -3,6 +3,7 @@ layout: recipe
 title:  "Chili sin Carne"
 image: https://www.idenyt.dk/globalassets/chili-sin-carne.jpg?preset=width700
 imagecredit: https://www.idenyt.dk/ovrigt/madopskrifter/knorr/
+imagephotograph: Knorr
 date: 2020-02-23
 
 authorName:
@@ -10,12 +11,12 @@ authorURL:
 sourceName:
 sourceURL:
 categories: 
-  - dinner
+  - Aftensmad
 cuisines: 
-  - maxican
+  - Mexicansk
 tags:
-  - family
-  - vegetar
+  - Familie
+  - Vegetar
 yield: 4
 prepTime: 20
 cookTime: 20

@@ -10,13 +10,13 @@ authorURL: https://gastromand.dk
 sourceName: "Gastromand"
 sourceURL: https://gastromand.dk/tatar-burgeren/#wprm-recipe-container-54269
 categories: 
-  - dinner
+  - Aftensmad
 cuisines: 
   - american
 tags:
   - american
-  - family
-  - bagværk
+  - Familie
+  - Bagværk
 yield: 4-6
 prepTime: 25
 cookTime: 20

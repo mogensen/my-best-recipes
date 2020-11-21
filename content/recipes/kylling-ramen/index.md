@@ -3,6 +3,7 @@ layout: recipe
 title:  "Kylling Ramen"
 image:
 imagecredit: https://github.com/mogensen
+imagephotograph: Frederik Mogensen
 date: 2020-02-23
 
 authorName: Frederik Mogensen
@@ -10,11 +11,11 @@ authorURL:
 sourceName: 
 sourceURL: 
 categories: 
-  - dinner
+  - Aftensmad
 cuisines: 
-  - asian
+  - Asian 
 tags:
-  - asian
+  - Asian 
 yield: 2
 prepTime: 20
 cookTime: 10

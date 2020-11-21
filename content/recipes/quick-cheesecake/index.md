@@ -10,12 +10,12 @@ authorURL:
 sourceName: 
 sourceURL: 
 categories: 
- - dessert
+ - Dessert
 cuisines:
 tags:
- - dessert
- - bær
- - lakrids 
+ - Dessert
+ - Bær
+ - Lakrids 
 yield: 8
 prepTime: 15
 cookTime: 45
